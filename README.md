@@ -16,4 +16,4 @@ Each video is a sequence of 30 frames (or images)
 # Team
 
 1. [Priyesh Raj](https://github.com/Priyesh17)
-2. [Rupal Garewal]()
+2. [Rupal Garewal](https://github.com/RUP97/)
